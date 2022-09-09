@@ -13,6 +13,7 @@
         android:orientation="vertical">
 
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
             android:background="#FF0000"
@@ -20,23 +21,26 @@
             android:layout_height="0dp"
             android:text="A" />
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#8BC34A"
+            android:background="#699734"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:text="B" />
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#FFC107"
+            android:background="#B89723"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:text="C" />
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#9C27B0"
+            android:background="#3182C3"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:text="D" />
@@ -50,30 +54,34 @@
         android:orientation="horizontal">
 
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#FF0000"
+            android:background="#C1B22E"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="A" />
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#8BC34A"
+            android:background="#A2A69E"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="B" />
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#FFC107"
+            android:background="#7849B3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="C" />
         <TextView
+            android:textSize="35sp"
             android:gravity="center"
             android:layout_weight="1"
-            android:background="#9C27B0"
+            android:background="#880E4F"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="D" />
